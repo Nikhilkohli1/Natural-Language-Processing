@@ -1,4 +1,5 @@
-## Sarcasm Detection in News Headlines (Kaggle)
+## Sarcasm Detection in News Headlines (Kaggle) 
+## 96.7% Accuracy
 
 ### Can you identify Sarcastic sentences?
 ### Can you distinguish between Fake news and Legitimate news?
