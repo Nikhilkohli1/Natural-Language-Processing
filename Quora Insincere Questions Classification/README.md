@@ -1,4 +1,6 @@
-# Quora Insincere Questions Classification using Deep Learning
+## Quora Insincere Questions Classification using Deep Learning(Kaggle)
+
+### Performance - 86% f1 Score with a threshold of 0.46 using Bidirectional GRU with Wiki Fasttext Pre-trained Embeddings
 
 The objective is to predict whether a question asked on Quora is sincere or not.
 An insincere question is defined as a question intended to make a statement rather than look for helpful answers. Some characteristics that can signify that a question is insincere:
